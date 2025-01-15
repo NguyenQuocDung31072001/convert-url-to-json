@@ -109,7 +109,7 @@ function App() {
       <div
         style={{
           width: "calc(100% - 200px)",
-          height: "800px",
+          height: "600px",
           display: "flex",
           justifyContent: "center",
           alignItems: "center",
@@ -123,8 +123,8 @@ function App() {
             )}
             theme={"monokai"}
             style={{
-              width: "1000px",
-              height: "800px",
+              width: "100%",
+              height: "100%",
               overflow: "scroll",
             }}
           />
